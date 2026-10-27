@@ -31,3 +31,6 @@ yarn-error.log
 
 # Text fixtures with real emails
 fixtures
+
+# code-review-graph database (built per session)
+.code-review-graph/
